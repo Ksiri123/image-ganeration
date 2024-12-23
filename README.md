@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Real Time Image Ganeraation
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/704a14de-3af9-4550-a9ba-63ee2a54f3f6
+**URL**:
 
 ## How can I edit this code?
 
